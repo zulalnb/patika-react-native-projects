@@ -6,12 +6,11 @@ This repository contains React Native assignments and tutorial projects complete
 
 The repository is organized as a collection of separate React Native projects. Each folder represents either a course assignment, a practice app, or an implementation from tutorial videos.
 
-## **Projects**
-
--   **BananeApp** — React Native project with Firebase, navigation, form handling, modals, and date utilities.
--   **codetalks** — Expo Router based React Native project with Firebase, authentication flow, form validation, and modern Expo tooling.
--   **UnitTestIntroApp** — Introductory React Native project focused on unit testing basics with Jest and React Native Testing Library.
--   **ProjectReport** — Project-related report/documentation folder.
+| **Project**  | **Description**  |**Tutorial** |
+|---|---|---|
+| **BananeApp** |React Native project with Firebase, navigation, form handling, modals, and date utilities.   | [Tutorial](https://www.youtube.com/playlist?list=PLmF2p8i4JxTrcTSokqcCB15ni1w0ZyVvy)  |
+| **UnitTestIntroApp**  | Introductory React Native project focused on unit testing basics with Jest and React Native Testing Library.  | [Tutorial](https://www.youtube.com/playlist?list=PLmF2p8i4JxTqEEMS23ePbOmU4FIRZA6GC)  |
+| **ProjectReport**  | Project-related report/documentation folder. | [Tutorial](https://www.youtube.com/playlist?list=PLmF2p8i4JxTpQlCVllmI5oTqgoDzmltWH)   |
 
 ## **Tech Stack**
 
